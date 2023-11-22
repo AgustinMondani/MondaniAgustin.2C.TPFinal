@@ -265,7 +265,7 @@
             btnCargarCsv.Name = "btnCargarCsv";
             btnCargarCsv.Size = new Size(266, 63);
             btnCargarCsv.TabIndex = 11;
-            btnCargarCsv.Text = "Cargar Productos por Csv";
+            btnCargarCsv.Text = "Cargar Productos por Json";
             btnCargarCsv.UseVisualStyleBackColor = false;
             btnCargarCsv.Click += btnCargarCsv_Click;
             // 

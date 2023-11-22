@@ -49,6 +49,7 @@ namespace Forms
         }
         public void CargarCmb(List<Producto> listaProductos)
         {
+            cmbNombreProducto.Items.Clear();
             List<Producto> productos = ProductosCargar();
             foreach (Producto producto in productos)
             {
@@ -197,6 +198,7 @@ namespace Forms
                         gbd.SaveChanges();
                         File.WriteAllText(rutaCompleta, string.Empty);
                     }
+                    CargarCmb(ProductosCargar());
                 }
                 else
                 {
