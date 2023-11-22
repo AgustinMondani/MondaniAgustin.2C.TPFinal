@@ -1,0 +1,180 @@
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\obj\Debug\net6.0-windows\Forms.csproj.AssemblyReference.cache
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\obj\Debug\net6.0-windows\Forms.FrmInicio.resources
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\obj\Debug\net6.0-windows\Forms.csproj.GenerateResource.cache
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Forms.exe
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Forms.deps.json
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Forms.runtimeconfig.json
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Forms.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Forms.pdb
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Entidades.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\bin\Debug\net6.0-windows\Entidades.pdb
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\obj\Debug\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfoInputs.cache
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfo.cs
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\obj\Debug\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\obj\Debug\net6.0-windows\Forms.csproj.CopyComplete
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\obj\Debug\net6.0-windows\Forms.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\obj\Debug\net6.0-windows\refint\Forms.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\obj\Debug\net6.0-windows\Forms.pdb
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\obj\Debug\net6.0-windows\Forms.genruntimeconfig.cache
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\obj\Debug\net6.0-windows\ref\Forms.dll
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\obj\Debug\net6.0-windows\Forms.FormRegistro.resources
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\obj\Debug\net6.0-windows\Forms.FormAplicacion.resources
+C:\Users\amond\OneDrive\Escritorio\ProyectoRefactorizado\Forms\obj\Debug\net6.0-windows\Forms.Factura.resources
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Forms.exe
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Forms.deps.json
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Forms.runtimeconfig.json
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Forms.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Forms.pdb
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Entidades.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Entidades.pdb
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.csproj.AssemblyReference.cache
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.Factura.resources
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.FormAplicacion.resources
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.FormRegistro.resources
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.FrmInicio.resources
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.csproj.GenerateResource.cache
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfoInputs.cache
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfo.cs
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.csproj.CopyComplete
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\refint\Forms.dll
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.pdb
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.genruntimeconfig.cache
+C:\Users\amond\OneDrive\Escritorio\Mondani Agustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\ref\Forms.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Forms.exe
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Forms.deps.json
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Forms.runtimeconfig.json
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Forms.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Forms.pdb
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Entidades.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\bin\Debug\net6.0-windows\Entidades.pdb
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.csproj.AssemblyReference.cache
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.Factura.resources
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.FormAplicacion.resources
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.FormRegistro.resources
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.FrmInicio.resources
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.csproj.GenerateResource.cache
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfoInputs.cache
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfo.cs
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.csproj.CopyComplete
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\refint\Forms.dll
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.pdb
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\Forms.genruntimeconfig.cache
+C:\Users\amond\OneDrive\Escritorio\MondaniAgustin.2C.TPFinal\Forms\obj\Debug\net6.0-windows\ref\Forms.dll
