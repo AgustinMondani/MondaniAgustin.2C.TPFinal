@@ -1,0 +1,12 @@
+[
+    {
+        "Nombre": "Playstation 5",
+        "Precio": 300000,
+        "Stock": 50
+      },
+      {
+        "Nombre": "Xbox 360",
+        "Precio": 1500000,
+        "Stock": 5
+      }
+]
