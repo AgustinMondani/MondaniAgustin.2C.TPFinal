@@ -32,7 +32,7 @@ namespace Forms
             listProductos.Columns.Add("Cantidad", 90);
             listProductos.Columns.Add("Precio", 110);
 
-            foreach (var producto in comprador.productos)
+            foreach (var producto in comprador.Productos)
             {
                 ListViewItem item = new ListViewItem(producto.Nombre);
                 item.SubItems.Add(producto.Stock.ToString());
@@ -41,7 +41,7 @@ namespace Forms
             }
 
             lblTotalPrecio.Text = comprador.Facturar().ToString();
-            comprador.productos.Clear();
+            comprador.Productos.Clear();
 
         }
 

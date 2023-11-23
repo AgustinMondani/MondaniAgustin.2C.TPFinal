@@ -48,7 +48,7 @@ namespace Forms
                             gbd.Add(vendedor).State = Microsoft.EntityFrameworkCore.EntityState.Added;
                             gbd.SaveChanges();
                             this.Close();
-                            this.formInicio.Hide();
+                           this.formInicio.Hide();
 
                             FormAplicacion formAplicacion = new FormAplicacion(vendedor, formInicio);
                             formAplicacion.Show();

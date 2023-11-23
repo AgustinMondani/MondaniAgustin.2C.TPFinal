@@ -48,6 +48,7 @@
             btnCliente = new Button();
             txtClienteApellido = new TextBox();
             btnCargarCsv = new Button();
+            button2 = new Button();
             grpProductos.SuspendLayout();
             grpComprador.SuspendLayout();
             SuspendLayout();
@@ -56,7 +57,7 @@
             // 
             lblUsuario.AutoSize = true;
             lblUsuario.Font = new Font("Segoe UI", 15F, FontStyle.Regular, GraphicsUnit.Point);
-            lblUsuario.Location = new Point(647, 9);
+            lblUsuario.Location = new Point(627, 9);
             lblUsuario.Name = "lblUsuario";
             lblUsuario.Size = new Size(48, 28);
             lblUsuario.TabIndex = 3;
@@ -269,11 +270,22 @@
             btnCargarCsv.UseVisualStyleBackColor = false;
             btnCargarCsv.Click += btnCargarCsv_Click;
             // 
+            // button2
+            // 
+            button2.Location = new Point(627, 41);
+            button2.Name = "button2";
+            button2.Size = new Size(160, 23);
+            button2.TabIndex = 12;
+            button2.Text = "Comision";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
             // FormAplicacion
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(829, 532);
+            Controls.Add(button2);
             Controls.Add(btnCargarCsv);
             Controls.Add(grpComprador);
             Controls.Add(button1);
@@ -318,5 +330,6 @@
         private Button btnCliente;
         private TextBox txtClienteApellido;
         private Button btnCargarCsv;
+        private Button button2;
     }
 }

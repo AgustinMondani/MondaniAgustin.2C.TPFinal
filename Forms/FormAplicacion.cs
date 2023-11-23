@@ -14,6 +14,7 @@ using Entidades.Excepciones;
 using System.Runtime.InteropServices;
 using System.Text.Json;
 using System.Linq.Expressions;
+using System.Net;
 
 namespace Forms
 {
@@ -67,11 +68,11 @@ namespace Forms
             try
             {
 
-                if (comprador.productos.Count() == 0)
+                if (comprador.Productos.Count() == 0)
                 {
                     comprador.Nombre = txtClienteNombre.Text;
                     comprador.Apeliido = txtClienteApellido.Text;
-                    comprador.productos.Clear();
+                    comprador.Productos.Clear();
                     InicializarList();
                 }
                 else
@@ -102,21 +103,29 @@ namespace Forms
                     }
                     else
                     {
-                        throw new Exception("Cantidad incorrercta");
+                        throw new BaseDeDatosExeption("Cantidad incorrercta");
                     }
                 }
 
             }
-            catch (Exception ex)
+            catch (BaseDeDatosExeption ex)
             {
                 MessageBox.Show(ex.Message, "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            catch(FaltaDeStockException ex)
+            {
+                MessageBox.Show(ex.Message, "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Seleccione un producto", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
         private void ActualizarList()
         {
             InicializarList();
-            foreach (var producto in comprador.productos)
+            foreach (var producto in comprador.Productos)
             {
                 ListViewItem item = new ListViewItem(producto.Nombre);
                 item.SubItems.Add(producto.Stock.ToString());
@@ -158,6 +167,7 @@ namespace Forms
                 {
                     Vendedor vendedor = gbd.vendedor.FirstOrDefault(u => u.Mail == vendedorActual.Mail);
                     vendedor.Vender(comision);
+                    vendedorActual = vendedor;
                     gbd.SaveChanges();
                 }
 
@@ -224,6 +234,12 @@ namespace Forms
                 formInicio.Close();
             }
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string mensaje = $"El vendedor {vendedorActual.Nombre} {vendedorActual.Apeliido} obtuvo hasta el momento una comision de: {vendedorActual.Comision}";
+            MessageBox.Show(mensaje, "Comision", MessageBoxButtons.OK);
         }
     }
 }
