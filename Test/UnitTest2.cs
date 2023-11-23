@@ -9,7 +9,7 @@ namespace Test
         [TestMethod]
         public void FacturarConProductos()
         {
-            // Arrange
+            // Entorno
             Producto producto1 = new Producto("Producto1", 10, 2);
             Producto producto2 = new Producto("Producto2", 15, 3);
 
@@ -17,22 +17,22 @@ namespace Test
             Comprador comprador = new Comprador("Colo", "Barco");
             comprador.Productos = productos;
 
-            // Act
+            // Accion
             string resultado = comprador.Facturar();
 
-            // Assert
-            Assert.AreEqual("65", resultado); // Ajusta el valor esperado según tu lógica de facturación
+            // Resultado
+            Assert.AreEqual("65", resultado); 
         }
 
         [TestMethod]
         [ExpectedException(typeof(ErrorCompraException))]
         public void FacturarSinProductos()
         {
-            // Arrange
+            // 
             Comprador comprador = new Comprador("Colo", "Barco");
             comprador.Productos = new List<Producto>();
 
-            // Act
+            //
             string resultado = comprador.Facturar();
         }
 
