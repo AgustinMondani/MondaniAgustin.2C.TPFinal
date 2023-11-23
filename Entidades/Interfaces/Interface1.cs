@@ -6,13 +6,10 @@ using System.Threading.Tasks;
 
 namespace Entidades.Interfaces
 {
-    internal interface IUsuario
+    public interface IPersona
     {
-        int id { get; set; }
         string nombre { get; set; }
         string apellido { get; set; }
-
-
 
     }
 }

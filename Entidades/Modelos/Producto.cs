@@ -37,11 +37,6 @@ namespace Entidades.Modelos
             Stock -= cantidad;
         }
 
-        public bool CompararConProducto(string nombreProducto)
-        {
-            return Nombre == nombreProducto;
-        }
-
         public bool VerificarVenta(int  cantidad)
         {
             if (cantidad < 1)

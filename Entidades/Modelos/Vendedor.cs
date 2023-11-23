@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Entidades.Interfaces;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Entidades.Modelos
 {
-    public class Vendedor
+    public class Vendedor : IPersona
     {
         private string nombre;
         private string apellido;
@@ -33,6 +34,8 @@ namespace Entidades.Modelos
         public int Comision { get => comision; set => comision = value; }
         public string Contraseña { get => contraseña; set => contraseña = value; }
         public string Mail { get => mail; set => mail = value; }
+        string IPersona.nombre { get => nombre; set => nombre = value; }
+        string IPersona.apellido { get => apellido; set => apellido = value; }
 
         public void Vender(int comsion)
         {
